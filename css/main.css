@@ -42,13 +42,8 @@ ul.posts li {
     list-style: none;
 }
 .user {
-  display: inline-block;
-  width: 150px;
-  height: 150px;
   border-radius: 50%;
-
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  border: .8px solid;
+  height:auto;
 }
 Don't forget to commit the new
